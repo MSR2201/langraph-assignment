@@ -54,11 +54,6 @@ The tests validate:
 - Memory persistence across conversation turns
 - Proper agent responses for different types of queries
 
-## 📦 Submission
-
-- Fix all bugs
-- Commit with useful messages
-- Push to GitHub and send the link
 
 ## 🧠 How It Works
 
