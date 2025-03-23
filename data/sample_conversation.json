@@ -1,0 +1,6 @@
+[
+  {"user": "Hi, how much does this cost?"},
+  {"bot": "Our product costs $49. Would you like to proceed?"},
+  {"user": "Yes, but I need help with refund."},
+  {"bot": "Let me connect you to support."}
+]
